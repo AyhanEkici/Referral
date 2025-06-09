@@ -1,0 +1,16 @@
+{
+    "name": "freestays/referral-program",
+    "description": "Simple referral program for Freestays.eu",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "illuminate/support": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Freestays\\Referral\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
