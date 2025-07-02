@@ -3,7 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+<<<<<<< HEAD
 use Freestays\Referral\ReferralService;
+=======
+use App\Services\ReferralService;
+>>>>>>> a11df88 (Save local changes before rebase)
 
 class ReferralController extends Controller
 {

@@ -1,14 +1,10 @@
 <?php
-
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
 class ReferralCode extends Model
 {
-<<<<<<< HEAD
-=======
     protected $table = 'referral_codes';
->>>>>>> a11df88 (Save local changes before rebase)
     protected $fillable = ['user_id', 'code'];
 }
