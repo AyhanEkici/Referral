@@ -23,7 +23,6 @@
             "Freestays\\Referral\\": "src/"
         },
         "classmap": [
-            "database/seeds",
             "database/factories"
         ]
     },
